@@ -23,8 +23,8 @@ function Footer() {
           <div>
             <h6 className="text-white font-heading font-bold mb-4 text-xs tracking-widest uppercase">Legal</h6>
             <ul className="text-slate-500 space-y-2.5 text-xs font-medium">
-              <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Terms & Conditions</a></li>
+              <li><a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a></li>
+              <li><a href="/terms" className="hover:text-white transition-colors">Terms & Conditions</a></li>
               <li><button onClick={() => scrollTo('contact')} className="hover:text-white transition-colors cursor-pointer">Contact</button></li>
             </ul>
           </div>
