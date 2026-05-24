@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Deep Institutional Background Match -->
+  <rect width="32" height="32" fill="#040712"/>
+  
+  <!-- Outer Secure Vault Line -->
+  <path d="M6 6 H26 V18 L18 26 H6 Z" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="miter"/>
+  
+  <!-- The White Razor Slice Angle -->
+  <polygon points="26,12 18,20 26,20" fill="#ffffff"/>
+  
+  <!-- Core Focus Anchor Point -->
+  <rect x="11" y="11" width="6" height="6" fill="#2563eb"/>
+</svg>
